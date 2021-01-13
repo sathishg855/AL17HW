@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[{"Id":50101,"Kind":11,"Name":"Test","PackagePath":"/src/test.al"},{"Id":50101,"Kind":16,"Name":"SGACust_Page","PackagePath":"/src/Pag-Ext50101.VNS_CustPage.al"}],"Removed":[]}
+﻿{"Added":[],"Modified":[{"Id":50100,"Kind":17,"Name":"VNS Customer","PackagePath":"/src/Tab-Ext50100.VNS_Customer.al"}],"Removed":[]}

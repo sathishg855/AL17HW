@@ -23,7 +23,7 @@
   "contextSensitiveHelpUrl": "https://AL17HW.com/help/",
   "showMyCode": true,
   "runtime": "6.0",
-  "features": ["TranslationFile"]
+  "features": ["TranslationFile","GenerateCaptions"]
 
 
 }

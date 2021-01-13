@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="en-US" original="AL17HW">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="AL17SG">
     <body>
       <group id="body">
         <trans-unit id="Page 3253695788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>FieldList</source>
-          <target>[NAB: REVIEW]FieldList</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page FieldList - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1810304572 - Control 4278973426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Ref No.</source>
-          <target>[NAB: REVIEW]Ref No.</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGACust_Page - Control Ref No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1810304572 - Control 4278973426 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Specifies the Ref No.that the customer</source>
-          <target>[NAB: REVIEW]Specifies the Ref No.that the customer</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension SGACust_Page - Control Ref No. - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="TableExtension 2707248858 - Field 672882320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
           <source>Ref No.</source>
-          <target>[NAB: REVIEW]Ref No.</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor (VNS) - Field Ref No. (VNS) - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2707248858 - Field 3013539624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1936001480">
           <source>Ref Name</source>
-          <target>[NAB: REVIEW]Ref Name</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension Vendor (VNS) - Field Ref Name (VNS) - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3564925225 - Field 1772356607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>Ref No.</source>
-          <target>[NAB: REVIEW]Ref No.</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension VNS Customer - Field VNS Ref No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3564925225 - Field 605727615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>Ref Name</source>
-          <target>[NAB: REVIEW]Ref Name</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension VNS Customer - Field VNS Ref Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3564925225 - Field 3011539163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>Ref Name</source>
-          <target>[NAB: REVIEW]Ref Name</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension VNS Customer - Field VNS Ref Option - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3564925225 - Field 3011539163 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>A,B,C</source>
-          <target>[NAB: REVIEW]A,B,C</target>
+          <target>[NAB: NOT TRANSLATED]</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension VNS Customer - Field VNS Ref Option - Property OptionCaption</note>
         </trans-unit>
