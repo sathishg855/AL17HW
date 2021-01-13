@@ -5,7 +5,7 @@
 /// <summary>
 /// PageExtension CustomerListExt (ID 50100) extends Record Customer List.
 /// </summary>
-pageextension 50100 CustomerListExt extends "Customer List"
+/*pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
@@ -20,5 +20,5 @@ pageextension 50100 CustomerListExt extends "Customer List"
         GLSetup: Record "General Ledger Setup";
         PH: Record "Purchase Header";
         dbevent: Codeunit GlobalTriggerManagement;
-        PL: Record "Purchase Line"
-}
+        PL: Record "Purchase Line";
+}*/

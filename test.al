@@ -9,5 +9,5 @@ codeunit 50101 Test
     end;
 
     var
-        myInt: Integer;
+        custpage: page "Customer List";
 }
